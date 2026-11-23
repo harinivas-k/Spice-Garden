@@ -29,8 +29,10 @@ export default function Footer() {
 
         <div>
           <h4>Visit Us</h4>
-          <p>Bhimavaram, Andhra Pradesh, India</p>
-          <p>Contact details to be added</p>
+          <p>Bhimavaram , GV Canal Road , Andhra Pradesh , India</p>
+          <p>
+                    <a href="tel:+916304382319">+91 63043 82319</a>
+          </p>
         </div>
       </div>
 
