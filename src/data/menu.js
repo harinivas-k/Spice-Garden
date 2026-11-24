@@ -1,0 +1,1 @@
+console.log("Menu data loaded successfully.");
